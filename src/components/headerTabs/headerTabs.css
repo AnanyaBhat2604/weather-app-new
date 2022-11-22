@@ -1,0 +1,34 @@
+.tabsSelect {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.tabLinks {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ffffff85;
+    padding: 2.2rem 0 0 0;
+}
+
+.linkNames {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 15px;
+    padding-bottom: 10px;
+}
+
+.active {
+    border-bottom: 1px solid #FFD639;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 15px;
+    color: #FFD639;
+    padding-bottom: 10px;
+}

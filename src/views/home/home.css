@@ -1,0 +1,12 @@
+.homeContainer {
+    padding: 5% 10%;
+
+}
+
+@media screen and (max-width:780px) {
+
+    .homeContainer {
+        padding: 4% 3%;
+    }
+
+}
